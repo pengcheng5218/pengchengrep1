@@ -1,3 +1,7 @@
 nihao wanghuimin  hello  pc whm
+<<<<<<< HEAD
 git是个好东西
 dev添加分支
+=======
+git是个好东西  mast添加
+>>>>>>> master
